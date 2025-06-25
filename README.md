@@ -1,5 +1,3 @@
-# AI-Codec-
-Ultra-Efficient Algorithm For Context-Sensitive Compression Of Structured Data
 # AICodec
 
 Сверхэффективный алгоритм контекстно-зависимого сжатия структурированных данных
