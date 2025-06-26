@@ -5,7 +5,7 @@ from src.aicodec import AICodec
 
 class TestAICodec(unittest.TestCase):
     def setUp(self):
-        self.codec = AICodec()
+        self.codec = AICodec(auto_parse=False)
         self.data = [1, 4, 9, 16, 25]
 
     def test_analyze(self):
