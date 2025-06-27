@@ -1,1 +1,16 @@
-numpy 
+numpy
+pandas
+matplotlib
+lz4
+boto3
+azure-storage-blob
+google-cloud-storage
+jinja2
+arithmeticcoding
+asyncio
+pytest
+pytest-asyncio
+heapq
+ast
+re
+logging 
